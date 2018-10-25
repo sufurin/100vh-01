@@ -1,0 +1,19 @@
+body, h1{
+    margin: 0;
+}
+h1{
+    font-family: sans-serif;
+    padding-top: 47.5vh;
+    font-size: 5vh;
+    text-align: center;
+}
+.bg01{
+    height: 100vh;
+    background-image: url(./kamikochi01.jpg);
+    background-size: cover;
+}
+.bg02{
+    height: 100vh;
+    background-image: url(./kamikochi02.jpg);
+    background-size: cover;
+}
